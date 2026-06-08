@@ -27,5 +27,3 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 
-## 🔗Contact & Links
-- 📧 ldhdh1832@gmail.com
